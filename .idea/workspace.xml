@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d9f6ba7-d763-46b8-ae7a-0cedf050f888" name="Default Changelist" comment="" />
+    <list default="true" id="5d9f6ba7-d763-46b8-ae7a-0cedf050f888" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dep.html" beforeDir="false" afterPath="$PROJECT_DIR$/dep.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doctor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/doctor/doctor_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/doctor/doctor_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/doctor/doctor_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/doctor/doctor_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/doctor/doctor_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/doctor/doctor_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/doctor/doctor_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/doctor/doctor_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/single-blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/341911454.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/400dpiLogo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/400dpiLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/400dpiLogoCropped.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/400dpiLogoCropped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/EPSLogo.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/FaviconLogo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/FaviconLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/MediumSquareLogo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/MediumSquareLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/PSLogo.ps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/SVGLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/SmallLogo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/SmallLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/SmallLogoBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/logo/SmallLogoBW.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YcaQj2FKlxkk1KvJDgHDBgBC8t" />
   <component name="ProjectViewState">
@@ -15,6 +52,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -38,10 +76,17 @@
       <workItem from="1584367809078" duration="1310000" />
       <workItem from="1584369413621" duration="431000" />
       <workItem from="1584369868454" duration="1442000" />
+      <workItem from="1584791051223" duration="7937000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="120" width="863" height="867" key="find.popup" timestamp="1584820910349">
+      <screen x="65" y="24" width="1615" height="1026" />
+    </state>
+    <state x="433" y="120" width="863" height="867" key="find.popup/65.24.1615.1026@65.24.1615.1026" timestamp="1584820910349" />
   </component>
 </project>
